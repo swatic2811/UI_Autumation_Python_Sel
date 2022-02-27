@@ -1,0 +1,22 @@
+2022-02-26 11:16:42,155 - logger - 36 - INFO - test
+2022-02-26 11:16:42,155 - conftest - 76 - INFO - ..............Intialized Logger Instance...............
+2022-02-26 11:17:26,512 - WebdriverBasePage - 49 - INFO - element clicked
+2022-02-26 11:17:42,652 - WebdriverBasePage - 36 - INFO - Test entered
+2022-02-26 11:17:43,708 - WebdriverBasePage - 49 - INFO - element clicked
+2022-02-26 11:17:46,685 - WebdriverBasePage - 49 - INFO - element clicked
+2022-02-26 11:17:50,703 - WebdriverBasePage - 36 - INFO - Test entered
+2022-02-26 11:17:51,652 - WebdriverBasePage - 36 - INFO - Test entered
+2022-02-26 11:17:52,343 - WebdriverBasePage - 36 - INFO - Test entered
+2022-02-26 11:17:55,710 - WebdriverBasePage - 49 - INFO - element clicked
+2022-02-26 11:17:56,534 - WebdriverBasePage - 49 - INFO - element clicked
+2022-02-26 11:17:57,286 - WebdriverBasePage - 36 - INFO - Test entered
+2022-02-26 11:18:04,463 - WebdriverBasePage - 36 - INFO - Test entered
+2022-02-26 11:18:05,315 - WebdriverBasePage - 36 - INFO - Test entered
+2022-02-26 11:18:09,402 - WebdriverBasePage - 36 - INFO - Test entered
+2022-02-26 11:18:11,893 - WebdriverBasePage - 36 - INFO - Test entered
+2022-02-26 11:18:13,041 - WebdriverBasePage - 49 - INFO - element clicked
+2022-02-26 11:18:13,141 - WebdriverBasePage - 36 - INFO - Test entered
+2022-02-26 11:18:13,893 - WebdriverBasePage - 36 - INFO - Test entered
+2022-02-26 11:18:15,058 - WebdriverBasePage - 36 - INFO - Test entered
+2022-02-26 11:18:33,494 - WebdriverBasePage - 49 - INFO - element clicked
+2022-02-26 11:19:06,314 - WebdriverBasePage - 49 - INFO - element clicked

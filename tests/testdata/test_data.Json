@@ -1,0 +1,28 @@
+{
+  "test_login":
+  {
+  "Title": "1234",
+  "name": "John"
+  },
+"test_createAccount":
+  {
+     "Email":"swatite55st123@qa.com",
+     "Title": "Mrs.",
+     "FirstName" : "Swati",
+     "LastName" : "Grover",
+     "Password": "Admin1",
+     "Birthday": "2",
+     "BirthMonth": "9",
+     "BirthYear": "1986",
+     "CompanyName": "xyz",
+     "Address1": "Address1",
+     "Address2" : "Address2",
+     "City" : "Pune",
+     "State": "New Jersey",
+     "PostCode": "12345",
+     "Country": "United States",
+     "OtherInfo" : "testing",
+     "PhoneNumber": "1234567890",
+     "MobileNumber": "0987654321"
+  }
+}

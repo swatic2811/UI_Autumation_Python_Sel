@@ -1,0 +1,7 @@
+2022-02-26 00:03:59,862 - logger - 36 - INFO - test
+2022-02-26 00:03:59,862 - conftest - 76 - INFO - ..............Intialized Logger Instance...............
+2022-02-26 00:04:41,819 - WebdriverBasePage - 49 - INFO - element clicked
+2022-02-26 00:04:56,951 - WebdriverBasePage - 36 - INFO - Test entered
+2022-02-26 00:05:13,508 - WebdriverBasePage - 36 - INFO - Test entered
+2022-02-26 00:05:20,244 - WebdriverBasePage - 49 - INFO - element clicked
+2022-02-26 00:05:35,395 - WebdriverBasePage - 49 - INFO - element clicked
